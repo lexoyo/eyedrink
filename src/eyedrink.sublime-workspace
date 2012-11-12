@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"app",
+				"applyImg"
+			],
+			[
+				"item",
+				"itemName	var"
+			],
+			[
+				"it",
+				"itemName	var"
+			],
+			[
+				"ele",
+				"elementBeingEdited	var"
+			],
+			[
+				"Element",
+				"ElementType"
+			],
+			[
+				"elem",
+				"elements	var"
+			],
+			[
+				"Dom",
+				"DomTools"
+			],
+			[
 				"tra",
 				"transitionDataHide	var"
 			],
@@ -212,10 +240,6 @@
 				"HtmlDom	js.Dom"
 			],
 			[
-				"Dom",
-				"HtmlDom	cocktail.Dom"
-			],
-			[
 				"sw",
 				"swfFileName"
 			],
@@ -282,10 +306,6 @@
 			[
 				"nod",
 				"nodeValue"
-			],
-			[
-				"ele",
-				"elements"
 			],
 			[
 				"p",
@@ -494,40 +514,11 @@
 			[
 				"max",
 				"max-width"
-			],
-			[
-				"h",
-				"head	Tag"
-			],
-			[
-				"font",
-				"font	font-size: size"
-			],
-			[
-				"pages",
-				"pagesWidget"
-			],
-			[
-				"pu",
-				"public"
-			],
-			[
-				"new",
-				"newParentId"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 250,
-				"line_ending": "Unix",
-				"name": "index.html"
-			}
-		},
 		{
 			"file": "/Users/lexa/Dropbox/fdt-workspace/Silex/build/build.hxml",
 			"settings":
@@ -537,18 +528,34 @@
 			}
 		},
 		{
-			"file": "build.hxml",
+			"file": "eyedrink.html",
 			"settings":
 			{
-				"buffer_size": 724,
+				"buffer_size": 3480,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/lexa/Dropbox/fdt-workspace/Silex/bin/publications/654654/index.html",
+			"file": "/Users/lexa/Dropbox/fdt-workspace/EyeDrink/bin/app.css",
 			"settings":
 			{
-				"buffer_size": 1629,
+				"buffer_size": 490,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "eyedrink/ApplicationController.hx",
+			"settings":
+			{
+				"buffer_size": 2390,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/lexa/Dropbox/fdt-workspace/Brix/src/brix/util/DomTools.hx",
+			"settings":
+			{
+				"buffer_size": 14247,
 				"line_ending": "Unix"
 			}
 		}
@@ -585,6 +592,9 @@
 	},
 	"file_history":
 	[
+		"/Users/lexa/Dropbox/fdt-workspace/EyeDrink/src/index.html",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/bin/publications/654654/index.html",
+		"/Users/lexa/Dropbox/fdt-workspace/EyeDrink/src/build.hxml",
 		"/Users/lexa/Dropbox/fdt-workspace/Brix/src/brix/component/interaction/HistoryManager.hx",
 		"/Users/lexa/Dropbox/fdt-workspace/Brix/src/org/slplayer/component/navigation/Layer.hx",
 		"/Users/lexa/Dropbox/fdt-workspace/Brix/src/org/slplayer/component/navigation/Page.hx",
@@ -709,10 +719,7 @@
 		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/core/Silex.hx",
 		"/Users/lexa/Dropbox/fdt-workspace/Silex-v2.x/src/org/silex/core/Silex.hx",
 		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/LinkClosePage.hx",
-		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/LinkBase.hx",
-		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/LinkToPage.hx",
-		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/SoundOff.hx",
-		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/SoundOn.hx"
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/LinkBase.hx"
 	],
 	"find":
 	{
@@ -732,6 +739,22 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"data-home-button-type",
+			"home",
+			",",
+			"></a>",
+			"7\"",
+			"7{",
+			"\n",
+			"\"></a>",
+			"Page div",
+			"<div",
+			" src=\"",
+			"<img ",
+			"class=\"home",
+			"class",
+			"<img class=\"quantity\" src=\"assets/",
+			"png",
 			".82",
 			"82",
 			"pro1.telephone",
@@ -843,23 +866,7 @@
 			"500px",
 			"onClick",
 			"2s",
-			"	transition: left 2s ease-in;\n",
-			"transition",
-			"10s",
-			"rootElement.style.display",
-			"startTransition",
-			"data-show-start-style",
-			"startTransition",
-			"TransitionData",
-			"removeClass",
-			"transitionData",
-			"setTransitionProperty",
-			"EVENT_TYPE_REQUEST",
-			"SHOW_START_STYLE_ATTR_NAME",
-			"setTransitionProperty",
-			"getTransitionData",
-			"\n	",
-			"Transition"
+			"	transition: left 2s ease-in;\n"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -881,38 +888,11 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 250,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								224,
-								224
-							]
-						],
-						"settings":
-						{
-							"auto_name": "index.html",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "/Users/lexa/Dropbox/fdt-workspace/Silex/build/build.hxml",
 					"settings":
 					{
@@ -938,24 +918,52 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "build.hxml",
+					"buffer": 1,
+					"file": "eyedrink.html",
 					"settings":
 					{
-						"buffer_size": 724,
+						"buffer_size": 3480,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								724,
-								724
+								1008,
+								1008
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HaXe/Hxml.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/lexa/Dropbox/fdt-workspace/EyeDrink/bin/app.css",
+					"settings":
+					{
+						"buffer_size": 490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								490,
+								490
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -965,27 +973,56 @@
 				},
 				{
 					"buffer": 3,
-					"file": "/Users/lexa/Dropbox/fdt-workspace/Silex/bin/publications/654654/index.html",
+					"file": "eyedrink/ApplicationController.hx",
 					"settings":
 					{
-						"buffer_size": 1629,
+						"buffer_size": 2390,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								381,
-								453
+								1963,
+								1963
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"haxe-build-id": 0,
+							"syntax": "Packages/HaXe/HaXe.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/lexa/Dropbox/fdt-workspace/Brix/src/brix/util/DomTools.hx",
+					"settings":
+					{
+						"buffer_size": 14247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/HaXe/HaXe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 157.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
