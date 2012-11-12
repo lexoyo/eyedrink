@@ -1,0 +1,66 @@
+<html>
+	<head>
+		<title>Eye Drink</title>
+		<meta name="initialPageName" content="home" />
+		<meta name="useDeeplink" content="true" />
+		<link href="app.css" rel="stylesheet" />
+		<script data-brix-use="brix.component.navigation.Page"></script>
+		<script data-brix-use="brix.component.navigation.Layer"></script>
+		<script data-brix-use="brix.component.navigation.link.LinkToPage"></script>
+		<script data-brix-use="brix.component.navigation.link.LinkClosePage"></script>
+		<script data-brix-use="brix.component.navigation.link.LinkToContext"></script>
+
+		<script data-brix-use="eyedrink.ApplicationController"></script>
+	</head>
+	<body class="ApplicationController">
+		<a name="home" class="Page">Home</a>
+		<a href="#home" class="LinkToPage">Home</a>
+		<a name="quantity" class="Page">Quantity</a>
+		<a name="container" class="Page">Container</a>
+		<a name="alcohol" class="Page">Alcohol</a>
+		<a name="soft" class="Page">Soft</a>
+		<div class="Layer home">
+			<div><a href="#quantity" class="LinkToPage quantity"><img class="home1" src="assets/nochoice.png" alt="quantity"  /></a></div>
+			<div><a href="#container" class="LinkToPage container"><img class="home2" src="assets/nochoice.png" alt="container"  /></a></div>
+			<div><a href="#alcohol" class="LinkToPage alcohol"><img class="home3" src="assets/nochoice.png" alt="alcohol"  /></a></div>
+			<div><a href="#soft" class="LinkToPage soft"><img class="home4" src="assets/nochoice.png" alt="soft"  /></a></div>
+		</div>
+		<div class="Layer quantity">
+			<div><a href="#home" class="LinkToPage"><img class="quantity" src="assets/quantity1.png" alt="quantity1.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="quantity" src="assets/quantity2.png" alt="quantity2.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="quantity" src="assets/quantity3.png" alt="quantity3.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="quantity" src="assets/quantity4.png" alt="quantity4.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="quantity" src="assets/quantity5.png" alt="quantity5.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="quantity" src="assets/quantity6.png" alt="quantity6.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="quantity" src="assets/quantity7.png" alt="quantity7.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="quantity" src="assets/quantity8.png" alt="quantity8.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="quantity" src="assets/quantity9.png" alt="quantity9.png" /></a></div>
+		</div>
+		<div class="Layer container">
+			<div><a href="#home" class="LinkToPage"><img class="container" src="assets/container1.png" alt="container1.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="container" src="assets/container2.png" alt="container2.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="container" src="assets/container3.png" alt="container3.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="container" src="assets/container4.png" alt="container4.png" /></a></div>
+		</div>
+		<div class="Layer alcohol">
+			<div><a href="#home" class="LinkToPage"><img class="alcohol" src="assets/alcohol1.png" alt="alcohol1.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="alcohol" src="assets/alcohol2.png" alt="alcohol2.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="alcohol" src="assets/alcohol3.png" alt="alcohol3.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="alcohol" src="assets/alcohol4.png" alt="alcohol4.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="alcohol" src="assets/alcohol5.png" alt="alcohol5.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="alcohol" src="assets/alcohol6.png" alt="alcohol6.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="alcohol" src="assets/alcohol7.png" alt="alcohol7.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="nochoice" src="assets/nochoice.png" alt="nochoice.png" /></a></div>
+		</div>
+		<div class="Layer soft">
+			<div><a href="#home" class="LinkToPage"><img class="soft" src="assets/soft1.png" alt="soft1.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="soft" src="assets/soft2.png" alt="soft2.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="soft" src="assets/soft3.png" alt="soft3.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="soft" src="assets/soft4.png" alt="soft4.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="soft" src="assets/soft5.png" alt="soft5.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="soft" src="assets/soft6.png" alt="soft6.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="soft" src="assets/soft7.png" alt="soft7.png" /></a></div>
+			<div><a href="#home" class="LinkToPage"><img class="nochoice" src="assets/nochoice.png" alt="nochoice.png" /></a></div>
+		</div>
+	</body>
+</html>

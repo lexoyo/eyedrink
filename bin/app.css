@@ -1,0 +1,38 @@
+.Page{
+	display: none;
+}
+/* pages layout */
+.homePage a{
+	float: left;
+	width: 49%;
+	height: 49%;
+	border: inset 1px black;
+	text-align: center;
+}
+.quantityPage a{
+	float: left;
+	width: 32%;
+	height: 32%;
+	border: inset 1px black;
+}
+
+.containerPage a{
+	float: left;
+	width: 49%;
+	height: 49%;
+	border: inset 1px black;
+}
+
+.alcoholPage a{
+	float: left;
+	width: 49%;
+	height: 24%;
+	border: inset 1px black;
+}
+
+.softPage a{
+	float: left;
+	width: 49%;
+	height: 24%;
+	border: inset 1px black;
+}

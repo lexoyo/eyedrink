@@ -1,0 +1,65 @@
+<html>
+	<head>
+		<title>Eye Drink</title>
+		<meta name="initialPageName" content="homePage" />
+		<meta name="useDeeplink" content="true" />
+		<link href="app.css" rel="stylesheet" />
+		<script data-brix-use="brix.component.navigation.Page"></script>
+		<script data-brix-use="brix.component.navigation.Layer"></script>
+		<script data-brix-use="brix.component.navigation.link.LinkToPage"></script>
+		<script data-brix-use="brix.component.navigation.link.LinkClosePage"></script>
+		<script data-brix-use="brix.component.navigation.link.LinkToContext"></script>
+
+		<script data-brix-use="eyedrink.ApplicationController"></script>
+	</head>
+	<body class="ApplicationController">
+		<a name="homePage" class="Page">Home</a>
+		<a name="quantityPage" class="Page">Quantity</a>
+		<a name="containerPage" class="Page">Container</a>
+		<a name="alcoholPage" class="Page">Alcohol</a>
+		<a name="softPage" class="Page">Soft</a>
+		<div class="Layer homePage">
+			<a href="#quantityPage" class="LinkToPage" data-is-home-button="" data-item="quantity"></a>
+			<a href="#containerPage" class="LinkToPage" data-is-home-button="" data-item="container"></a>
+			<a href="#alcoholPage" class="LinkToPage" data-is-home-button="" data-item="alcohol"></a>
+			<a href="#softPage" class="LinkToPage" data-is-home-button="" data-item="soft"></a>
+		</div>
+		<div class="Layer quantityPage">
+			<a href="#homePage" class="LinkToPage" data-item="quantity1"></a>
+			<a href="#homePage" class="LinkToPage" data-item="quantity2"></a>
+			<a href="#homePage" class="LinkToPage" data-item="quantity3"></a>
+			<a href="#homePage" class="LinkToPage" data-item="quantity4"></a>
+			<a href="#homePage" class="LinkToPage" data-item="quantity5"></a>
+			<a href="#homePage" class="LinkToPage" data-item="quantity6"></a>
+			<a href="#homePage" class="LinkToPage" data-item="quantity7"></a>
+			<a href="#homePage" class="LinkToPage" data-item="quantity8"></a>
+			<a href="#homePage" class="LinkToPage" data-item="quantity9"></a>
+		</div>
+		<div class="Layer containerPage">
+			<a href="#homePage" class="LinkToPage" data-item="container1"></a>
+			<a href="#homePage" class="LinkToPage" data-item="container2"></a>
+			<a href="#homePage" class="LinkToPage" data-item="container3"></a>
+			<a href="#homePage" class="LinkToPage" data-item="container4"></a>
+		</div>
+		<div class="Layer alcoholPage">
+			<a href="#homePage" class="LinkToPage" data-item="alcohol1"></a>
+			<a href="#homePage" class="LinkToPage" data-item="alcohol2"></a>
+			<a href="#homePage" class="LinkToPage" data-item="alcohol3"></a>
+			<a href="#homePage" class="LinkToPage" data-item="alcohol4"></a>
+			<a href="#homePage" class="LinkToPage" data-item="alcohol5"></a>
+			<a href="#homePage" class="LinkToPage" data-item="alcohol6"></a>
+			<a href="#homePage" class="LinkToPage" data-item="alcohol7"></a>
+			<a href="#homePage" class="LinkToPage" data-item="nochoice"></a>
+		</div>
+		<div class="Layer softPage">
+			<a href="#homePage" class="LinkToPage" data-item="soft1"></a>
+			<a href="#homePage" class="LinkToPage" data-item="soft2"></a>
+			<a href="#homePage" class="LinkToPage" data-item="soft3"></a>
+			<a href="#homePage" class="LinkToPage" data-item="soft4"></a>
+			<a href="#homePage" class="LinkToPage" data-item="soft5"></a>
+			<a href="#homePage" class="LinkToPage" data-item="soft6"></a>
+			<a href="#homePage" class="LinkToPage" data-item="soft7"></a>
+			<a href="#homePage" class="LinkToPage" data-item="nochoice"></a>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,16 @@
+#########
+# player JS
+#########
+-js ../bin/eyedrink.js
+-cp ../../Brix/src/
+-cp ../../Cocktail/src/
+#--no-traces
+-debug
+
+-main brix.core.Application
+--macro brix.core.Builder.create('eyedrink.html', '../bin/index.html')
+
+#-D slpdebug
+#-D disableEmbedHtml
+#-D noAutoStart
+-D stopOnError

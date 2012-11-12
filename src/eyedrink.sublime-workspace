@@ -1,0 +1,1058 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"transitionDataHide	var"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"targ",
+				"target"
+			],
+			[
+				"doS",
+				"doShow"
+			],
+			[
+				"trans",
+				"transitionData"
+			],
+			[
+				"en",
+				"endStyleName	String"
+			],
+			[
+				"start",
+				"startStyleName	String"
+			],
+			[
+				"Trans",
+				"TransitionData"
+			],
+			[
+				"doH",
+				"doHide"
+			],
+			[
+				"root",
+				"rootElement"
+			],
+			[
+				"fun",
+				"fun	Function (fun)"
+			],
+			[
+				"startT",
+				"startTransition"
+			],
+			[
+				"le",
+				"leftEnd	var"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"d",
+				"duration"
+			],
+			[
+				"com",
+				"component	package"
+			],
+			[
+				"sty",
+				"styleSheet"
+			],
+			[
+				"css",
+				"cssRules	js.HtmlCollection<js.CssRule>"
+			],
+			[
+				"StyleS",
+				"StyleSheet	js.Dom"
+			],
+			[
+				"style",
+				"styleName"
+			],
+			[
+				"Lin",
+				"LinkBase	class"
+			],
+			[
+				"shee",
+				"sheet	var"
+			],
+			[
+				"CONF",
+				"CONFIG_PUBLICATION_BODY"
+			],
+			[
+				"co",
+				"core	package"
+			],
+			[
+				"public",
+				"publicationName	var"
+			],
+			[
+				"transi",
+				"transitionIsReversed	var"
+			],
+			[
+				"tras",
+				"transitionData"
+			],
+			[
+				"CustomEve",
+				"CustomEvent	cocktail.Dom"
+			],
+			[
+				"CONFIG_TRANSITION_DE",
+				"CONFIG_TRANSITION_DELAY"
+			],
+			[
+				"CONFIG_TR",
+				"CONFIG_TRANSITION_DURATION"
+			],
+			[
+				"EVENT_TYPE_ST",
+				"EVENT_TYPE_STARTED	String"
+			],
+			[
+				"Transit",
+				"TransitionEvent	class"
+			],
+			[
+				"E",
+				"EVENT_TYPE_REQUEST	String"
+			],
+			[
+				"Tra",
+				"TransitionTimingFunction	class"
+			],
+			[
+				"ma",
+				"margin	margin: all"
+			],
+			[
+				"dis",
+				"display	display: block"
+			],
+			[
+				"pa",
+				"padding	padding: all"
+			],
+			[
+				"w",
+				"offsetWidth	Int"
+			],
+			[
+				"layer",
+				"layerInstance"
+			],
+			[
+				"left",
+				"offsetLeft"
+			],
+			[
+				"Even",
+				"Event	js.Dom"
+			],
+			[
+				"Eve",
+				"Event	js.Dom"
+			],
+			[
+				"publi",
+				"public"
+			],
+			[
+				"getElementsByTag",
+				"getElementsByTagName(...)	js.HtmlCollection<js.HtmlDom>"
+			],
+			[
+				"getElements",
+				"getElementsByTag(...)	js.HtmlCollection<js.HtmlDom>"
+			],
+			[
+				"cl",
+				"close()	Unknown<0>"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"sl",
+				"SLPId"
+			],
+			[
+				"get",
+				"getElementsByClassName(...)	js.HtmlCollection<js.HtmlDom>"
+			],
+			[
+				"doc",
+				"document	js.Document"
+			],
+			[
+				"c",
+				"childNodes	js.HtmlCollection<js.HtmlDom>"
+			],
+			[
+				"Html",
+				"HtmlDom	js.Dom"
+			],
+			[
+				"Dom",
+				"HtmlDom	cocktail.Dom"
+			],
+			[
+				"sw",
+				"swfFileName"
+			],
+			[
+				"n",
+				"NME"
+			],
+			[
+				"SU",
+				"SUCCESS_MSG"
+			],
+			[
+				"url",
+				"urlEncode( s : String )	String"
+			],
+			[
+				"on",
+				"onclick(...)	Void"
+			],
+			[
+				"sho",
+				"showPageByName	function"
+			],
+			[
+				"getElem",
+				"getElementsByClassName(...)	js.HtmlCollection<js.HtmlDom>"
+			],
+			[
+				"marg",
+				"margin	margin-right: length"
+			],
+			[
+				"background",
+				"background	background-color: hex"
+			],
+			[
+				"Link",
+				"LinkToPage	class"
+			],
+			[
+				"link",
+				"linkName"
+			],
+			[
+				"page",
+				"pageIdx"
+			],
+			[
+				"CSS",
+				"CSS_CLASS_PHANTOM	var"
+			],
+			[
+				"u",
+				"util	package"
+			],
+			[
+				"selec",
+				"selectedItem(getSelectedItem,	var"
+			],
+			[
+				"no",
+				"nodeType	XmlType"
+			],
+			[
+				"nod",
+				"nodeValue"
+			],
+			[
+				"ele",
+				"elements"
+			],
+			[
+				"p",
+				"push( x : String )	Int"
+			],
+			[
+				"data",
+				"dataProvider"
+			],
+			[
+				"off",
+				"offsetWidth	Int"
+			],
+			[
+				"mous",
+				"mouseX	var"
+			],
+			[
+				"x",
+				"clientX"
+			],
+			[
+				"zon",
+				"zoneIdx"
+			],
+			[
+				"clien",
+				"clientX"
+			],
+			[
+				"dropZ",
+				"DropZone	class"
+			],
+			[
+				"bac",
+				"background	filter: AlphaImageLoader [for IE PNGs]"
+			],
+			[
+				"g",
+				"DarkSlateGray"
+			],
+			[
+				"ba",
+				"background	background-color: transparent"
+			],
+			[
+				"po",
+				"position	Int"
+			],
+			[
+				"in",
+				"insertBefore(...)	Void"
+			],
+			[
+				"Dr",
+				"DropZone	class"
+			],
+			[
+				"s",
+				"style	js.Style"
+			],
+			[
+				"fi",
+				"field(...)	Dynamic"
+			],
+			[
+				"fie",
+				"fields( o : Dynamic )	Array<String>"
+			],
+			[
+				"set",
+				"setAsBestDropZone	function"
+			],
+			[
+				"drop",
+				"dropZones	var"
+			],
+			[
+				"best",
+				"bestDropZone	var"
+			],
+			[
+				"bes",
+				"bestDropZone	var"
+			],
+			[
+				"clas",
+				"className	String"
+			],
+			[
+				"offs",
+				"offsetLeft	Int"
+			],
+			[
+				"init",
+				"initialX	var"
+			],
+			[
+				"inita",
+				"initialStylePosition	var"
+			],
+			[
+				"dra",
+				"dragging"
+			],
+			[
+				"onmouse",
+				"onmouseup( js.Event )	Void"
+			],
+			[
+				"star",
+				"startDrag	function"
+			],
+			[
+				"dragz",
+				"dragzone"
+			],
+			[
+				"Dra",
+				"DragableState	class"
+			],
+			[
+				"bod",
+				"bodySize	var"
+			],
+			[
+				"stop",
+				"stopDrag"
+			],
+			[
+				"b",
+				"body	js.Body"
+			],
+			[
+				"cli",
+				"clientWidth	Int"
+			],
+			[
+				"bo",
+				"bodySize	var"
+			],
+			[
+				"is",
+				"isHorizontal	var"
+			],
+			[
+				"Htl",
+				"HtmlDom"
+			],
+			[
+				"lis",
+				"list	var"
+			],
+			[
+				"Co",
+				"ComponentsWidget"
+			],
+			[
+				"sele",
+				"selected	var"
+			],
+			[
+				"se",
+				"selected	var"
+			],
+			[
+				"implement",
+				"implements"
+			],
+			[
+				"list",
+				"listTemplate	var"
+			],
+			[
+				"Eleme",
+				"ElementClass"
+			],
+			[
+				"layers",
+				"layersList	var"
+			],
+			[
+				"compon",
+				"components	var"
+			],
+			[
+				"D",
+				"DisplayObject	class"
+			],
+			[
+				"la",
+				"layersWidget	var"
+			],
+			[
+				"components",
+				"componentsWidget	var"
+			],
+			[
+				"tr",
+				"inspectTrace"
+			],
+			[
+				"La",
+				"LayersWidget"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"h",
+				"head	Tag"
+			],
+			[
+				"font",
+				"font	font-size: size"
+			],
+			[
+				"pages",
+				"pagesWidget"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"new",
+				"newParentId"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 250,
+				"line_ending": "Unix",
+				"name": "index.html"
+			}
+		},
+		{
+			"file": "/Users/lexa/Dropbox/fdt-workspace/Silex/build/build.hxml",
+			"settings":
+			{
+				"buffer_size": 739,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "build.hxml",
+			"settings":
+			{
+				"buffer_size": 724,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/lexa/Dropbox/fdt-workspace/Silex/bin/publications/654654/index.html",
+			"settings":
+			{
+				"buffer_size": 1629,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/HaXe/Hxml.sublime-build",
+	"command_palette":
+	{
+		"height": 390.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lexa/Dropbox/fdt-workspace/Brix/src/brix/component/interaction/HistoryManager.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Brix/src/org/slplayer/component/navigation/Layer.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Brix/src/org/slplayer/component/navigation/Page.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Brix/src/brix/component/navigation/Layer.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/navigation/Page.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/silex/publication/PublicationModel.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/core/Application.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/silex/Silex.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/IMApp/build.hxml",
+		"/Users/lexa/Dropbox/fdt-workspace/IMApp/bin/app.css",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/util/DomTools.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/navigation/Layer.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/IMApp/src/index.html",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/navigation/link/TouchLink.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Cocktail/src/cocktail/core/html/HTMLElement.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/navigation/link/LinkClosePage.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/navigation/link/LinkBase.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/navigation/transition/TransitionTools.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/navigation/link/LinkToPage.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/IMApp/src/index-ok.html",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/navigation/transition/TransitionData.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/navigation/transition/TransitionHorizontal.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/navigation/transition/Transition.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/silex/interpreter/Interpreter.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/bin/app.css",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/com/europaapps/components/EmailForm.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/navigation/transition/TransitionBase.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/IMApp/buildJS.hxml",
+		"/Users/lexa/Dropbox/fdt-workspace/IMApp/buildFlash.hxml",
+		"/Users/lexa/Dropbox/fdt-workspace/IMApp/build.nmml",
+		"/usr/lib/haxe/std/haxe/Http.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/silex/ui/dialog/DialogBase.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/silex/property/PropertyModel.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/readme.txt",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/index.html",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/navigation/transition/TransitionVertical.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/build.hxml",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/silex/publication/PublicationService.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/buildJS.hxml",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/buildFlash.hxml",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/bin/app.html",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/build.nmml",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/bin/app (lexa-home-pc's conflicted copy 2012-08-22).html",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/build.hxml",
+		"/usr/lib/haxe/std/haxe/macro/Context.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/index (lexa-home-pc's conflicted copy 2012-08-22).html",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/core/Builder.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/org/silex/core/Silex.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/navigation/LinkToContext.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/js/Dom.hx",
+		"/home/lexa/Documents/repositories/Dropbox/fdt-workspace/Silex/src/org/silex/core/Silex.hx",
+		"/home/lexa/Documents/repositories/Dropbox/fdt-workspace/EuropaApps/bin/app.html",
+		"/home/lexa/Documents/repositories/Dropbox/fdt-workspace/EuropaApps/bin/app.css",
+		"/home/lexa/Documents/repositories/Dropbox/fdt-workspace/EuropaApps/src/index.html",
+		"/home/lexa/Documents/repositories/Dropbox/fdt-workspace/EuropaApps/build.hxml",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/com/europaapps/components/SWFImport.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/transition/TransitionHorizontal.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/transition/TransitionBase.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/com/europaapps/core/Main.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/layer/LinkBase.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/navigation/LinkBase.hx",
+		"/usr/lib/haxe/std/haxe/xml/Parser.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/index.html",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/layer/LinkToContext.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/transition/TransitionVertical.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/org/silex/core/DomTools.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/layer/LinkClosePage.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/layer/LinkToPage.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/SLPlayer/src/org/slplayer/component/layer/Layer.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/org/silex/components/LinkBase.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Cocktail/src/js/Dom.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/org/silex/components/LinkToContext.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/org/silex/transitions/TransitionHorizontal.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/org/silex/transitions/TransitionVertical.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/com/europaapps/components/LinkToContext.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/com/europaapps/components/Contextual.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/changelog.txt",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/org/silex/transitions/TransitionLeftToRight.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/org/silex/components/Layer.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/org/silex/transitions/TransitionData.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/org/silex/transitions/TransitionBase.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/org/silex/components/Page.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/bin/libs/silex/.htaccess",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/readme.txt",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/org/silex/core/Silex-EA.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/index-test.html",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/org/silex/components/SoundOn.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/test-slplayer-nme/index.html",
+		"/Users/lexa/Dropbox/fdt-workspace/test-slplayer-nme/build.nmml",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/org/silex/components/EmailForm.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/[Finished]../Silex/src/org/silex/components/EmailForm.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/mode d emploie ea.txt",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/components/SWFImport.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/transitions/TransitionBase.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/components/EmailForm.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/components/Page.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/transitions/TransitionLeftToRight.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/components/LinkBase.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/components/Layer.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/transitions/OLD-Transition.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/components/LinkToPage.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/components/LinkClosePage.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/transitions/TransitionRightToLeft.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/transitions/OLD-new-Transition.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/transitions/Transition.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/transitions/Transition (lexa yo's conflicted copy 2012-08-04).hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps-test-ff/app.css",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps-test-ff/main.html",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps-test-ff/Main.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Cocktail/src/cocktail/core/dom/NodeBase.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/components/SoundOff.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/components/SoundOn.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/bin/europaapps.css",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/core/DomTools.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/components/TransitionBase.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/org/silex/core/Silex.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/Page.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/EmailForm.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/Layer.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/OLD-Popup.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/OLD-LinkToPopup.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/core/Silex.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex-v2.x/src/org/silex/core/Silex.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/LinkClosePage.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/LinkBase.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/LinkToPage.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/SoundOff.hx",
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/SoundOn.hx"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/lexa/Dropbox/fdt-workspace/Silex/src",
+			"/Users/lexa/Dropbox/fdt-workspace/IMApp"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".82",
+			"82",
+			"pro1.telephone",
+			"mail",
+			"raison_social",
+			"\n\n",
+			"\n",
+			" - ",
+			"Alimentation\n",
+			"CONTACT RAPIDE",
+			"       ",
+			"CONFIG_USE_DEEPLINK",
+			"deeplink",
+			"use",
+			"open",
+			"audio",
+			"Lib.document",
+			"initComponents",
+			"initMetaParameters",
+			"initComponents",
+			"<<",
+			"disableEmbedHtml",
+			"\"create\"",
+			"\"init\"",
+			"init",
+			"pack",
+			"event.preventDefault",
+			"//event.preventDefault",
+			"Layer",
+			"Group",
+			"data-touch-type",
+			"TouchLink",
+			"TouchLink\"",
+			"TouchLink",
+			"TouchLink\">",
+			"TouchLink",
+			"LinkToPage",
+			"next",
+			"transitionData:Null<TransitionData",
+			"= callback",
+			"callback(",
+			"callback",
+			"function(e)",
+			"transition-opac",
+			"			<AUDIO autoplay=\"autoplay\">\n				<SOURCE type=\"audio/mp3\" src=\"assets/foto.mp3\"></SOURCE>\n			</AUDIO>\n",
+			"addTransitionEvent",
+			"			//",
+			"doSowCallback",
+			"doShowCallback",
+			"hide break",
+			"		// reset transition if it is pending\n",
+			"startTransition",
+			"doShowCallback",
+			"removeTransitionEvent",
+			"doHideCallback",
+			"startTransition",
+			"callback",
+			"startTransition",
+			"doHideCallback",
+			"doShowCallback",
+			"20s",
+			"0.1",
+			"1",
+			"opacity 2s",
+			"2s",
+			"				data-show-start-style=\"page-left\" data-show-end-style=\"page-center\"\n				data-hide-start-style=\"page-center\" data-hide-end-style=\"page-right\"\n			>\n				<IMG class=\"precedent transition-opac\" src=\"assets/precedent.png\"></IMG>	\n",
+			"precedent",
+			"page-left",
+			"page-center",
+			"close",
+			"LinkToPage",
+			"LinkToPage transition-opac",
+			"page-",
+			"page-right",
+			"opacity 2s, ",
+			"opacity",
+			"display",
+			"opacity",
+			"suivant",
+			"ResizeGallery",
+			"span",
+			"precedent",
+			"opacity",
+			"accuei",
+			"opacity",
+			"sidebar",
+			"opacity",
+			"IMG class",
+			"transition-opac",
+			"LinkClosePage",
+			"2",
+			"ease-in-out ",
+			"transition",
+			"	width: 50%;\n	height: 50%;\n",
+			"width 2s, height 2s, ",
+			"width",
+			"transform",
+			"width 2s, ",
+			"trace",
+			"doLater",
+			"-in",
+			"1s",
+			"precedent",
+			"suivant",
+			"status",
+			"data-",
+			"end \"+transitionData",
+			"Layer",
+			"500px",
+			"onClick",
+			"2s",
+			"	transition: left 2s ease-in;\n",
+			"transition",
+			"10s",
+			"rootElement.style.display",
+			"startTransition",
+			"data-show-start-style",
+			"startTransition",
+			"TransitionData",
+			"removeClass",
+			"transitionData",
+			"setTransitionProperty",
+			"EVENT_TYPE_REQUEST",
+			"SHOW_START_STYLE_ATTR_NAME",
+			"setTransitionProperty",
+			"getTransitionData",
+			"\n	",
+			"Transition"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    ",
+			"p",
+			"../assets/extjs",
+			"assets/extjs"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/lexa/Dropbox/fdt-workspace/Silex/build/build.hxml",
+					"settings":
+					{
+						"buffer_size": 739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								239
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HaXe/Hxml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "build.hxml",
+					"settings":
+					{
+						"buffer_size": 724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								724,
+								724
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HaXe/Hxml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/lexa/Dropbox/fdt-workspace/Silex/bin/publications/654654/index.html",
+					"settings":
+					{
+						"buffer_size": 1629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								381,
+								453
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 179.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 301.0,
+	"status_bar_visible": true
+}
