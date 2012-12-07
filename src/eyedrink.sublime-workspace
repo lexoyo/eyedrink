@@ -4,32 +4,12 @@
 		"selected_items":
 		[
 			[
-				"app",
-				"applyImg"
-			],
-			[
-				"item",
-				"itemName	var"
-			],
-			[
-				"it",
-				"itemName	var"
-			],
-			[
-				"ele",
-				"elementBeingEdited	var"
-			],
-			[
-				"Element",
-				"ElementType"
-			],
-			[
-				"elem",
-				"elements	var"
-			],
-			[
 				"Dom",
 				"DomTools"
+			],
+			[
+				"clas",
+				"className"
 			],
 			[
 				"tra",
@@ -308,6 +288,10 @@
 				"nodeValue"
 			],
 			[
+				"ele",
+				"elements"
+			],
+			[
 				"p",
 				"push( x : String )	Int"
 			],
@@ -390,10 +374,6 @@
 			[
 				"bes",
 				"bestDropZone	var"
-			],
-			[
-				"clas",
-				"className	String"
 			],
 			[
 				"offs",
@@ -514,32 +494,36 @@
 			[
 				"max",
 				"max-width"
+			],
+			[
+				"h",
+				"head	Tag"
+			],
+			[
+				"font",
+				"font	font-size: size"
+			],
+			[
+				"pages",
+				"pagesWidget"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"new",
+				"newParentId"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/Users/lexa/Dropbox/fdt-workspace/Silex/build/build.hxml",
+			"file": "build.hxml",
 			"settings":
 			{
-				"buffer_size": 739,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "eyedrink.html",
-			"settings":
-			{
-				"buffer_size": 3480,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/lexa/Dropbox/fdt-workspace/EyeDrink/bin/app.css",
-			"settings":
-			{
-				"buffer_size": 490,
+				"buffer_size": 286,
 				"line_ending": "Unix"
 			}
 		},
@@ -549,6 +533,15 @@
 			{
 				"buffer_size": 2390,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/lexa/Dropbox/fdt-workspace/EyeDrink/bin/app.css",
+			"settings":
+			{
+				"buffer_size": 548,
+				"line_ending": "Unix",
+				"name": "app.css"
 			}
 		},
 		{
@@ -592,9 +585,12 @@
 	},
 	"file_history":
 	[
-		"/Users/lexa/Dropbox/fdt-workspace/EyeDrink/src/index.html",
+		"/Users/lexa/Dropbox/fdt-workspace/EyeDrink/src/eyedrink.html",
+		"/Users/lexa/Dropbox/fdt-workspace/EyeDrink/src/temp",
 		"/Users/lexa/Dropbox/fdt-workspace/Silex/bin/publications/654654/index.html",
-		"/Users/lexa/Dropbox/fdt-workspace/EyeDrink/src/build.hxml",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/src/index-builder.html",
+		"/Users/lexa/Dropbox/fdt-workspace/Silex/build/build.hxml",
+		"/Users/lexa/Dropbox/fdt-workspace/EyeDrink/src/index.html",
 		"/Users/lexa/Dropbox/fdt-workspace/Brix/src/brix/component/interaction/HistoryManager.hx",
 		"/Users/lexa/Dropbox/fdt-workspace/Brix/src/org/slplayer/component/navigation/Layer.hx",
 		"/Users/lexa/Dropbox/fdt-workspace/Brix/src/org/slplayer/component/navigation/Page.hx",
@@ -716,10 +712,7 @@
 		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/Layer.hx",
 		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/OLD-Popup.hx",
 		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/OLD-LinkToPopup.hx",
-		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/core/Silex.hx",
-		"/Users/lexa/Dropbox/fdt-workspace/Silex-v2.x/src/org/silex/core/Silex.hx",
-		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/LinkClosePage.hx",
-		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/components/LinkBase.hx"
+		"/Users/lexa/Dropbox/fdt-workspace/EuropaApps/src/europaapps/core/Silex.hx"
 	],
 	"find":
 	{
@@ -739,22 +732,51 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"data-home-button-type",
+			"div",
+			" div{",
+			"=\"#",
+			"Layer ",
 			"home",
-			",",
-			"></a>",
-			"7\"",
-			"7{",
-			"\n",
-			"\"></a>",
-			"Page div",
-			"<div",
-			" src=\"",
-			"<img ",
-			"class=\"home",
-			"class",
-			"<img class=\"quantity\" src=\"assets/",
-			"png",
+			"\"Page\"",
+			"page",
+			"hasc",
+			"alt=\"",
+			"choice",
+			"img class=\"",
+			"choice",
+			" \">",
+			"no-\"",
+			"><img",
+			"no-no",
+			"choice",
+			".png\" alt",
+			".png",
+			"<div><img",
+			".png\"",
+			"class=\"Page",
+			"<img",
+			"</div>",
+			"h1",
+			"quantity",
+			"Home",
+			"<img",
+			"<h1>",
+			"container",
+			"ontainers",
+			"Containers",
+			"Alcohols",
+			"container",
+			"alcohol",
+			"quantity",
+			"container",
+			"quantity",
+			"quantity1",
+			"quantity",
+			"1.",
+			"/>			",
+			"			",
+			"home",
+			"-cp ../src/\n",
 			".82",
 			"82",
 			"pro1.telephone",
@@ -837,36 +859,7 @@
 			"ResizeGallery",
 			"span",
 			"precedent",
-			"opacity",
-			"accuei",
-			"opacity",
-			"sidebar",
-			"opacity",
-			"IMG class",
-			"transition-opac",
-			"LinkClosePage",
-			"2",
-			"ease-in-out ",
-			"transition",
-			"	width: 50%;\n	height: 50%;\n",
-			"width 2s, height 2s, ",
-			"width",
-			"transform",
-			"width 2s, ",
-			"trace",
-			"doLater",
-			"-in",
-			"1s",
-			"precedent",
-			"suivant",
-			"status",
-			"data-",
-			"end \"+transitionData",
-			"Layer",
-			"500px",
-			"onClick",
-			"2s",
-			"	transition: left 2s ease-in;\n"
+			"opacity"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -888,23 +881,23 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/lexa/Dropbox/fdt-workspace/Silex/build/build.hxml",
+					"file": "build.hxml",
 					"settings":
 					{
-						"buffer_size": 739,
+						"buffer_size": 286,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								219,
-								239
+								0,
+								0
 							]
 						],
 						"settings":
@@ -919,60 +912,6 @@
 				},
 				{
 					"buffer": 1,
-					"file": "eyedrink.html",
-					"settings":
-					{
-						"buffer_size": 3480,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1008,
-								1008
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 9.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/lexa/Dropbox/fdt-workspace/EyeDrink/bin/app.css",
-					"settings":
-					{
-						"buffer_size": 490,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								490,
-								490
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "eyedrink/ApplicationController.hx",
 					"settings":
 					{
@@ -983,8 +922,8 @@
 						"selection":
 						[
 							[
-								1963,
-								1963
+								1116,
+								1118
 							]
 						],
 						"settings":
@@ -994,17 +933,17 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 594.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "/Users/lexa/Dropbox/fdt-workspace/Brix/src/brix/util/DomTools.hx",
+					"buffer": 2,
+					"file": "/Users/lexa/Dropbox/fdt-workspace/EyeDrink/bin/app.css",
 					"settings":
 					{
-						"buffer_size": 14247,
+						"buffer_size": 548,
 						"regions":
 						{
 						},
@@ -1017,12 +956,40 @@
 						],
 						"settings":
 						{
+							"auto_name": "app.css",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/lexa/Dropbox/fdt-workspace/Brix/src/brix/util/DomTools.hx",
+					"settings":
+					{
+						"buffer_size": 14247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8151,
+								8151
+							]
+						],
+						"settings":
+						{
 							"haxe-build-id": 0,
 							"syntax": "Packages/HaXe/HaXe.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 157.0,
+						"translation.y": 3329.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

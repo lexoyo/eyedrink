@@ -41,7 +41,7 @@ class ApplicationController extends DisplayObject{
 	 * apply an image to the given element
 	 */
 	private function applyImg(elem:HtmlDom, itemName:String){
-		elem.style.background = "url(assets/"+itemName+".png) center center no-repeat";
+		elem.style.backgroundImage = "url(assets/"+itemName+".png)";
 	}
 
 	/**
@@ -51,35 +51,35 @@ class ApplicationController extends DisplayObject{
 	{
 		var node = e.target;
 
-		// get item name
-		var itemName = node.getAttribute("data-item");
-		if (itemName == null)
-			throw ("no attribute \"data-item\" on the node clicked");
+		if (node.getAttribute("data-item")!=null){
+			// get item name
+			var itemName = node.getAttribute("data-item");
+			if (itemName == null)
+				throw ("no attribute \"data-item\" on the node clicked");
 
-		trace("onClick "+itemName);
-
-		// switch, to determine if we are on the home page or not
-		if (node.getAttribute("data-is-home-button")!=null){
-			// on the home page
-			elementBeingEdited = switch (itemName){
-				case "quantity": quantity;
-				case "container": container;
-				case "alcohol": alcohol;
-				case "soft": soft;
+			// switch, to determine if we are on the home page or not
+			if (node.getAttribute("data-is-home-button")!=null){
+				// on the home page
+				elementBeingEdited = switch (itemName){
+					case "quantity": quantity;
+					case "container": container;
+					case "alcohol": alcohol;
+					case "soft": soft;
+				}
+				trace("=> "+elementBeingEdited);
 			}
-			trace("=> "+elementBeingEdited);
-		}
-		else{
-			// user has chosen something
-			// apply the image
-			haxe.Timer.delay(function (){
-				trace(elementBeingEdited);
-				var image = DomTools.getElementsByAttribute(rootElement, "data-item", Std.string(elementBeingEdited))[0];
-				trace("delay "+image);
-				applyImg(image, itemName);
-				// reset 
-				elementBeingEdited = null;
-			}, 10);
+			else{
+				// user has chosen something
+				// apply the image
+				haxe.Timer.delay(function (){
+					trace(elementBeingEdited);
+					var image = DomTools.getElementsByAttribute(rootElement, "data-item", Std.string(elementBeingEdited))[0];
+					trace("delay "+image);
+					applyImg(image, itemName);
+					// reset 
+					elementBeingEdited = null;
+				}, 10);
+			}
 		}
 	}
 

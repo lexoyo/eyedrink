@@ -1,38 +1,84 @@
 .Page{
 	display: none;
 }
-/* pages layout */
-.homePage a{
-	float: left;
-	width: 49%;
-	height: 49%;
-	border: inset 1px black;
+body{
+	background-color: black;
+	overflow: hidden;
+	margin: 0;
+}
+/* intro pages */
+.homePage .linkHomePage{
+	background-image: url("assets/startscreen.png");
+}
+.homePage .linkInfoPage{
+	background-image: url("assets/btn_credits.png");
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 122px;
+	height: 116px;
+}
+.homePage .linkTutoPage{
+	background-image: url("assets/btn_infos.png");
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 122px;
+	height: 116px;
+}
+.infoPage .link{
+/*	background-image: url("assets/startscreen.png"); */
 	text-align: center;
 }
-.quantityPage a{
-	float: left;
-	width: 32%;
-	height: 32%;
-	border: inset 1px black;
+.tutoPage .link{
+	background-image: url("assets/ecran_tuto.png");
+}
+.homePage .link, .infoPage .link, .tutoPage .link{
+	background-size: contain;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+/* app pages layout */
+.link{
+	background-size: contain;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
 }
 
-.containerPage a{
+.mainPage .link{
 	float: left;
-	width: 49%;
-	height: 49%;
-	border: inset 1px black;
+	width: 50%;
+	height: 50%;
+	text-align: center;
+	box-shadow: 0 0 5px white inset;
+}
+.quantityPage .link{
+	float: left;
+	width: 33%;
+	height: 33%;
+	box-shadow: 0 0 5px white inset;
 }
 
-.alcoholPage a{
+.containerPage .link{
 	float: left;
-	width: 49%;
-	height: 24%;
-	border: inset 1px black;
+	width: 50%;
+	height: 50%;
+	box-shadow: 0 0 5px white inset;
 }
 
-.softPage a{
+.alcoholPage .link{
 	float: left;
-	width: 49%;
-	height: 24%;
-	border: inset 1px black;
+	width: 50%;
+	height: 25%;
+	box-shadow: 0 0 5px white inset;
+}
+
+.softPage .link{
+	float: left;
+	width: 50%;
+	height: 25%;
+	box-shadow: 0 0 5px white inset;
 }

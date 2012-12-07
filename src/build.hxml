@@ -10,7 +10,7 @@
 -main brix.core.Application
 --macro brix.core.Builder.create('eyedrink.html', '../bin/index.html')
 
-#-D slpdebug
+-D slpdebug
 #-D disableEmbedHtml
 #-D noAutoStart
 -D stopOnError
